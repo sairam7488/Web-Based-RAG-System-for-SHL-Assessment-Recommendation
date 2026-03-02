@@ -8,3 +8,4 @@ requests==2.31.0
 beautifulsoup4==4.12.3
 pydantic==2.6.4
 huggingface-hub==0.20.3
+python==3.10.13
